@@ -7,6 +7,11 @@
 	},
 
 	"customizations": {
+		"vscode": {
+			"extensions": [
+				"alexcvzz.vscode-sqlite"
+			]
+		}
 	},
 
 	"postCreateCommand": "dotnet dev-certs https"
